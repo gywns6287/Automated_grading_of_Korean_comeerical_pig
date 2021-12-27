@@ -1,0 +1,1 @@
+weight files for SCNet and BTENet can be downloaded at 'https://drive.google.com/drive/folders/1PRBpfRVALwiPbA6JYSB9V-jDl2Rr8FIJ?usp=sharing'
